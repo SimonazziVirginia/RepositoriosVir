@@ -1,0 +1,17 @@
+Subir proyecto a GitHub
+
+Crear una carpeta, click derecho hacer Git Bash Here
+Dentro del editor de comandos hacer:
+git clone
+https:...........miprimeraversion (colocar el nombre de mi repo)
+Cerrar el comando
+Entrar a la carpeta que se clono del repo vacía
+Dentro copiar los archivos del proyecto
+Luego hacer Git Bash Here:
+git status
+git add .
+git status
+git commit -a -m "Primer versión"
+git push -u origin
+
+con esto envio mi proyecto al repo remoto. Debería aparecer en GitHub.
